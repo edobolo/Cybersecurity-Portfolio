@@ -7,6 +7,8 @@ Botium Toys is a hypothetical company that is growing rapidly. In an internal re
 
 ## 2. Objectives
 The main goal of this audit was to test the effectiveness of the current physical, technical, and administrative controls used by the company. Furthermore, the company's compliance with international compliance frameworks (GDPR & PCI DSS) was tested.
+[Clicca qui per visualizzare il Risk Assessment Report originale](Botium-Toys-Scope-goals-risk-assessment-report.pdf)
+[Clicca qui per visualizzare il Botium Toys Report](Controls-and-compliance-checklist.pdf)
 
 ## 3. Methodology
 In order to achieve these goals, I used the Identify and Protect core functions from the NIST Cybersecurity Framework (CSF). I reviewed the given Risk Assessment Report and classified controls used by the company.
