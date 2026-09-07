@@ -6,8 +6,7 @@
 Botium Toys is a hypothetical company that is growing rapidly. In an internal review, I performed a security audit of their IT systems, asset management practices, and existing security processes to find out where there are any weaknesses or gaps in terms of compliance.
 
 ## 2. Objectives
-The main goal of this audit was to test the effectiveness of the current physical, technical, and administrative controls used by the company. Furthermore, the company's compliance with international compliance frameworks (GDPR & PCI DSS) was tested.
-[Clicca qui per visualizzare il Risk Assessment Report originale](Botium-Toys-Scope-goals-risk-assessment-report.pdf)
+The main goal of this audit was to test the effectiveness of the current physical, technical, and administrative controls used by the company. Furthermore, the company's compliance with international compliance frameworks (GDPR & PCI DSS) was tested. [Clicca qui per visualizzare il Risk Assessment Report originale](Botium-Toys-Scope-goals-risk-assessment-report.pdf), 
 [Clicca qui per visualizzare il Botium Toys Report](Controls-and-compliance-checklist.pdf)
 
 ## 3. Methodology
