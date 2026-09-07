@@ -45,7 +45,7 @@ In order to achieve these goals, I used the Identify and Protect core functions 
 | ❌ No | User access policies are established. |
 | ❌ No | Sensitive data (PII/SPII) is confidential/private. |
 | ✅ Yes | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |
-| ✅ Yes | Data is available to individuals authorized to access it. |  
+| ❌ No | Data is available to individuals authorized to access it. |  
 
 ## 5. Recommendations for IT Management
 Based on the Risk Assessment, Botium Toys presents a high risk (score 8/10) due to the lack of adequate controls and non-compliance with PCI DSS and GDPR. I strongly recommend prioritizing the following implementations:
